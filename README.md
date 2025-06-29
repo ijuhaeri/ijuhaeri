@@ -1,6 +1,6 @@
 # Hi there! It's me, Bella! 👋
 
-🎓 **Junior at Tufts University, studying Computer Science and Cognitive and Brain Science**
+🎓 **Senior at Tufts University, studying Computer Science and Cognitive and Brain Science**
 🔭 **Aspiring researcher of LLMs and Computational Linguistics**
 
 I find language incredibly interesting and am eager to learn more about the intersection between language and technology!  
