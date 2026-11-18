@@ -1,15 +1,10 @@
 # Hi there! It's me, Bella! 👋
 
-🎓 **Senior at Tufts University, studying Computer Science and Cognitive and Brain Science**
-🔭 **Aspiring researcher of LLMs and Computational Linguistics**
+🎓 **First-year Master's Student at Brandeis University, studying Computational Linguistics**
 
 I find language incredibly interesting and am eager to learn more about the intersection between language and technology!  
 Currently, I am focusing on learning how to use machine learning models in order to further my knowledge of how these ideas
 can be applied to computer science.
-
-🎯 **Featured Project: Musical Analysis using MATLAB and LSTMs**
-- What We Did: Preprocessed and vectorized audio data, then trained an LSTM to predict the next musical note.
-- Tools: MATLAB, MATLAB's Audio Toolbox and Deep Learning
 
 🛠 **Tech Stack:**
   - Languages: C, C++, MATLAB, Python
@@ -19,11 +14,6 @@ can be applied to computer science.
 📫 **How to Reach Me:**
   - email: bmjuhaeri@gmail.com
   - Linkedin: www.linkedin.com/in/isabella-juhaeri
-
-✨ **What I am learning/working on**
-  - Currently in a Machine Structure and Assembly Language course! Next semester, I will take a machine learning course
-    to further cement my understanding of ML. I will also be taking a security and computational theory course next
-    semester. Excited to see what the future holds!
 
 
 
